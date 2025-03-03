@@ -23,7 +23,7 @@ api_key = xxx
 3. poetry run python main.py
    
 ## GUI
-open http://127.0.0.1:8188
+open http://127.0.0.1:8188, laughter
 
 ## appreciate 
 [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
